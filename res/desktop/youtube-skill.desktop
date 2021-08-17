@@ -5,6 +5,12 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Youtube
+Name[ca]=Youtube
+Name[es]=Youtube
+Name[eu]=Youtube
+Name[nl]=Youtube
+Name[uk]=Youtube
+Name[x-test]=xxYoutubexx
 Exec=mycroft-gui-app --hideTextInput --skill=youtube-skill.aiix.home
 Icon=youtube-skill
 Categories=VoiceApp
