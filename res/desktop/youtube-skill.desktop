@@ -6,9 +6,13 @@ Terminal=false
 Type=Application
 Name=Youtube
 Name[ca]=Youtube
+Name[cs]=Youtube
 Name[es]=Youtube
 Name[eu]=Youtube
 Name[nl]=Youtube
+Name[sk]=Youtube
+Name[sl]=Youtube
+Name[sv]=YouTube
 Name[uk]=Youtube
 Name[x-test]=xxYoutubexx
 Exec=mycroft-gui-app --hideTextInput --skill=youtube-skill.aiix.home
