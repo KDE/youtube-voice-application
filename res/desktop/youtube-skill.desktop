@@ -22,6 +22,7 @@ Name[sl]=Youtube
 Name[sv]=YouTube
 Name[uk]=Youtube
 Name[x-test]=xxYoutubexx
+Name[zh_CN]=Youtube
 Exec=mycroft-gui-app --hideTextInput --skill=youtube-skill.aiix.home
 Icon=youtube-skill
 Categories=VoiceApp
