@@ -5,6 +5,7 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Youtube
+Name[az]=Youtube
 Name[ca]=Youtube
 Name[ca@valencia]=Youtube
 Name[cs]=Youtube
