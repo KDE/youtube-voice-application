@@ -6,3 +6,5 @@ json_database
 timeago
 python-dateutil
 requests_cache
+git+https://github.com/nficano/pytube
+git+https://github.com/yt-dlp/yt-dlp
